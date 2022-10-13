@@ -43,3 +43,17 @@ if(diceNumber1 > diceNumber2){
 ## Experience
 
 I have a very little of experience as a Junior Frontend developer as I started pursuing this career just recently. Nevertheless, I do buy courses on Udemy, watch a lot of Youtube and do some challenges on websites such as Leetcode and Codewars.
+
+## Education
+
+- Tbilisi State University (Physics degree)
+- The Rolling Scopes school
+- The complete web-development bootcamp by Angela Yu
+- FreeCodeCamp
+- CodeAcademy
+- Learn React for free - scrimba.com
+- Youtube
+
+## English
+
+I must say my level of English should be somewhere between B2 to C1. I've been learning since school. I do understand the majority of things I read and hear, and I especially find it easy to learn and get experience through this foreign language.
